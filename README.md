@@ -22,7 +22,7 @@
 
 ![Piumal's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=piumal-glitch&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piumal-glitch&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piumal-glitch&theme=radical)
 
 ### 🔗 Let's Connect!
 - 💼 [Connect with me on LinkedIn](www.linkedin.com/in/piumal-jayaweera)
