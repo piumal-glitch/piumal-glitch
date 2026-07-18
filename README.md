@@ -18,16 +18,11 @@
 
 ---
 
-### 📈 My GitHub Analytics
-<!-- Dynamic live-updating cards powered by github-readme-stats -->
+### 📊 My GitHub Analytics
 
+![Piumal's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=piumal-glitch&show_icons=true&theme=radical)
 
-![Piumal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piumal-glitch&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piumal-glitch&layout=compact&theme=transparent)
-
-
----
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piumal-glitch&layout=compact&theme=radical)
 
 ### 🔗 Let's Connect!
 - 💼 [Connect with me on LinkedIn](www.linkedin.com/in/piumal-jayaweera)
