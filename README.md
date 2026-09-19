@@ -1,7 +1,7 @@
 # Hi, I'm Piumal Jayaweera! 👋
 
 ### 💼 About Me
-- 🚀 **Electrical & Information Undergraduate Engineering Student** at the **University of Ruhuna**.
+- 🚀 **Electrical & Information Engineering Undergraduate** at the **University of Ruhuna**.
 - 🛠️ Deeply interested in **Systems Design, Embedded Systems, and Robotics**.
 - 🌱 Actively building hands-on hardware and software integration projects.
 - 🎯 Sharpening core algorithmic problem-solving skills via **HackerRank**.
