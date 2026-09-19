@@ -22,7 +22,7 @@
 
 | EDA & PCB Design | Hardware & Prototyping | Modeling & Simulation |
 | :--- | :--- | :--- |
-| 🔹 **KiCad 8.0** | ⚡ **Arduino** | 📐 **SolidWorks** |
+| 🔹 **KiCad 10.0** | ⚡ **Arduino** | 📐 **SolidWorks** |
 | 🔹 **Altium Designer** | ⚡ **STM32 / Microcontrollers** | 📐 **MATLAB / Simulink** |
 | 🔹 **Circuit Design & Layout** | ⚡ **C / C++ Embedded** | 📐 **Proteus Simulation** |
 
