@@ -13,7 +13,7 @@
 | :--- | :--- |
 | **Programming Languages** | C, C++, C#, Python |
 | **Hardware & Prototyping** | Arduino, Circuit Design, Troubleshooting |
-| **Modeling & Simulation** | SolidWorks, MATLAB, Proteus|
+| **Modeling & Simulation** | KiCad, MATLAB, Proteus|
 | **Developer Tools** | Git, GitHub, VS Code |
 
 ---
