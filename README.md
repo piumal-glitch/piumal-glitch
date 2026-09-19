@@ -11,7 +11,7 @@
 ### 🧰 Tech Stack & Engineering Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Programming Languages** | C, C++, Python, JavaScript |
+| **Programming Languages** | C, C++, C#, Python |
 | **Hardware & Prototyping** | Arduino, Circuit Design, Troubleshooting |
 | **Modeling & Simulation** | SolidWorks, MATLAB, Proteus|
 | **Developer Tools** | Git, GitHub, VS Code |
