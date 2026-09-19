@@ -20,8 +20,8 @@
 
 ### 📊 My GitHub Analytics
 
-[![Piumal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piumal-glitch&show_icons=true&theme=radical)](https://github.com/piumal-glitch)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piumal-glitch&layout=compact&theme=radical)](https://github.com/piumal-glitch)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piumal-glitch&theme=radical)](https://github.com/piumal-glitch)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piumal-glitch&theme=radical)](https://github.com/piumal-glitch)
 
 ### 🔗 Let's Connect!
 - 💼 [Connect with me on LinkedIn](www.linkedin.com/in/piumal-jayaweera)
