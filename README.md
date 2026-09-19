@@ -20,12 +20,11 @@
 
 ### 🛠️ Hardware, PCB & Simulation Stack
 
-![KiCad](https://img.shields.io/badge/KiCad-31419B?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A200FF?style=for-the-badge&logo=altium&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus_Design_Suite-007ACC?style=for-the-badge&logo=circuit&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16709?style=for-the-badge&logo=mathworks&logoColor=white)
+| EDA & PCB Design | Hardware & Prototyping | Modeling & Simulation |
+| :--- | :--- | :--- |
+| 🔹 **KiCad 8.0** | ⚡ **Arduino** | 📐 **SolidWorks** |
+| 🔹 **Altium Designer** | ⚡ **STM32 / Microcontrollers** | 📐 **MATLAB / Simulink** |
+| 🔹 **Circuit Design & Layout** | ⚡ **C / C++ Embedded** | 📐 **Proteus Simulation** |
 
 ### 📊 My GitHub Analytics
 
