@@ -20,10 +20,8 @@
 
 ### 📊 My GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piumal-glitch&show_icons=true&theme=radical" alt="Piumal's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piumal-glitch&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</p>
+[![Piumal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piumal-glitch&show_icons=true&theme=radical)](https://github.com/piumal-glitch)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piumal-glitch&layout=compact&theme=radical)](https://github.com/piumal-glitch)
 
 ### 🔗 Let's Connect!
 - 💼 [Connect with me on LinkedIn](www.linkedin.com/in/piumal-jayaweera)
